@@ -1,0 +1,23 @@
+{
+  "name": "cypress-test-hacker-escape",
+  "version": "1.0.0",
+  "description": "cypress test for hacker escape rooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobpalmborg/cypress-test-hacker-escape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakobpalmborg/cypress-test-hacker-escape/issues"
+  },
+  "homepage": "https://github.com/jakobpalmborg/cypress-test-hacker-escape#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
